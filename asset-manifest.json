@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RaduEdwardAndrei/MovieFlex2.git/static/css/main.c20dc4c8.chunk.css",
+    "main.js": "/RaduEdwardAndrei/MovieFlex2.git/static/js/main.9ce3b4b2.chunk.js",
+    "main.js.map": "/RaduEdwardAndrei/MovieFlex2.git/static/js/main.9ce3b4b2.chunk.js.map",
+    "runtime-main.js": "/RaduEdwardAndrei/MovieFlex2.git/static/js/runtime-main.e7a328d2.js",
+    "runtime-main.js.map": "/RaduEdwardAndrei/MovieFlex2.git/static/js/runtime-main.e7a328d2.js.map",
+    "static/css/2.e7c4c567.chunk.css": "/RaduEdwardAndrei/MovieFlex2.git/static/css/2.e7c4c567.chunk.css",
+    "static/js/2.c6636483.chunk.js": "/RaduEdwardAndrei/MovieFlex2.git/static/js/2.c6636483.chunk.js",
+    "static/js/2.c6636483.chunk.js.map": "/RaduEdwardAndrei/MovieFlex2.git/static/js/2.c6636483.chunk.js.map",
+    "index.html": "/RaduEdwardAndrei/MovieFlex2.git/index.html",
+    "precache-manifest.d7fff6ee936f755914fafb4094e6ae1a.js": "/RaduEdwardAndrei/MovieFlex2.git/precache-manifest.d7fff6ee936f755914fafb4094e6ae1a.js",
+    "service-worker.js": "/RaduEdwardAndrei/MovieFlex2.git/service-worker.js",
+    "static/css/2.e7c4c567.chunk.css.map": "/RaduEdwardAndrei/MovieFlex2.git/static/css/2.e7c4c567.chunk.css.map",
+    "static/css/main.c20dc4c8.chunk.css.map": "/RaduEdwardAndrei/MovieFlex2.git/static/css/main.c20dc4c8.chunk.css.map",
+    "static/js/2.c6636483.chunk.js.LICENSE.txt": "/RaduEdwardAndrei/MovieFlex2.git/static/js/2.c6636483.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/RaduEdwardAndrei/MovieFlex2.git/static/media/backgroundpic.efe4fbe8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7a328d2.js",
+    "static/css/2.e7c4c567.chunk.css",
+    "static/js/2.c6636483.chunk.js",
+    "static/css/main.c20dc4c8.chunk.css",
+    "static/js/main.9ce3b4b2.chunk.js"
+  ]
+}
